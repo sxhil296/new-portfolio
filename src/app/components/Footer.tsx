@@ -31,17 +31,17 @@ const Footer = () => {
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright &copy; 2024 Sahil
         </p>
-        <div className="flex items-center md:gap-3 lg:gap-6 mt-4 sm:mt-0">
+        <div className="flex gap-2 items-center md:gap-3 lg:gap-6 mt-4 sm:mt-0">
           {socialMedia.map((profile) => (
             <div
               key={profile.id}
-              className="w-10 h-10 flex gap-2 justify-center items-center backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
+              className="w-10 h-10 flex justify-center items-center backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
             >
               <a
                 href={profile.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="cursor-pointer"
+                className="cursor-pointer "
               >
                 <img src={profile.img} alt="profile" width={20} height={20} />
               </a>
