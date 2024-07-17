@@ -76,7 +76,7 @@ export const projects = [
     id: 1,
     title: "Hack This Feb",
     des: "A hackathon website created with React and TailwindCSS, providing event information and seamless participant registration.",
-    img: "/p1.png",
+    img: "/p111.png",
     iconLists: ["/re.svg", "/tail.svg", "/javaScript.svg"],
     link: "https://hackthisfeb.netlify.app/",
   },
@@ -84,58 +84,63 @@ export const projects = [
     id: 2,
     title: "Advocate Portfolio",
     des: "An advocate's portfolio built with React and TailwindCSS, showcasing legal expertise and achievements in a sleek, user-friendly design.",
-    img: "/p2.png",
+    img: "/p222.png",
     iconLists: ["/re.svg", "/tail.svg", "/javaScript.svg"],
     link: "https://advamjad.netlify.app/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    title: "Quizzz",
+    des: "Quizzz is an interactive app for learning about Islam through engaging quizzes. Built with ReactJS and TailwindCSS for a fun, educational experience.",
+    img: "/p333.png",
+    iconLists: ["/re.svg", "/tail.svg", "/javaScript.svg", "/shadcn.svg"],
+    link: "https://islam-quizzz.netlify.app/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    title: "Blogosphere",
+    des: "Blogosphere is a full-stack blogging app with user authentication, post and comment management, and profile updates. Built with the MERN stack for a seamless user experience.",
+    img: "/p44.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/javaScript.svg",
+      "/mongodb.svg",
+      "/nodejs.svg",
+      "/express.svg",
+    ],
+    link: "https://github.com/Sxhil296/Blogosphere",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
+      "Working with Sahil on our website was fantastic. His skills in React, Tailwind CSS, and JavaScript made our vision a reality. The site they built is sleek, user-friendly, and exceeded our expectations. Highly recommended for anyone seeking top-notch web development.",
+    name: "HackThisFeb",
     title: "Director of AlphaStream Technologies",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis est exercitationem voluptates harum ratione officia quas laboriosam. Consequatur, error porro beatae iusto laboriosam quae minus autem officia ea. Quam nihil dolores repudiandae repellendus dolore incidunt!",
+    name: "Lorem Ipsum",
+    title: "Director of Lorem Ipsum",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Thanks to Sahil, my legal practice now has a professional and easy-to-use website. He created exactly what I needed, and I'm impressed with his skills and dedication. I highly recommend Sahil for anyone looking to improve their online presence.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
+    img: "/profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis est exercitationem voluptates harum ratione officia quas laboriosam. Consequatur, error porro beatae iusto laboriosam quae minus autem officia ea. Quam nihil dolores repudiandae repellendus dolore incidunt!",
+    name: "Lorem Ipsum",
+    title: "Director of Lorem Ipsum",
+    img: "/profile.svg",
   },
 ];
 

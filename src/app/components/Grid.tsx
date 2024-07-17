@@ -19,6 +19,7 @@ const Grid = () => {
             spareImg={spareImg}
           />
         ))}
+      
       </BentoGrid>
     </section>
   );
