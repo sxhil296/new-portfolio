@@ -118,8 +118,8 @@ export const testimonials = [
     quote:
       "Working with Sahil on our website was fantastic. His skills in React, Tailwind CSS, and JavaScript made our vision a reality. The site they built is sleek, user-friendly, and exceeded our expectations. Highly recommended for anyone seeking top-notch web development.",
     name: "HackThisFeb",
-    title: "Director of AlphaStream Technologies",
-    img: "/profile.svg",
+    // title: "Director of AlphaStream Technologies",
+    img: "/t1.png",
   },
   {
     quote:
@@ -131,9 +131,9 @@ export const testimonials = [
   {
     quote:
       "Thanks to Sahil, my legal practice now has a professional and easy-to-use website. He created exactly what I needed, and I'm impressed with his skills and dedication. I highly recommend Sahil for anyone looking to improve their online presence.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-    img: "/profile.svg",
+    name: "Adv. Amjad",
+    // title: "Director of AlphaStream Technologies",
+    img: "/t2.png",
   },
   {
     quote:

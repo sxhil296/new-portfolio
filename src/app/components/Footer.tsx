@@ -6,7 +6,7 @@ import { socialMedia } from "@/data";
 
 const Footer = () => {
   return (
-    <footer className="w-full mb-[100px] pb-10" id="contact">
+    <footer className="w-full mb-[80px] pb-10" id="contact">
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
           Eager to enhance <span className="text-purple">your</span> online
